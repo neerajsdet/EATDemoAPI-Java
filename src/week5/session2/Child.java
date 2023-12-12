@@ -31,6 +31,11 @@ public class Child extends AccessModifier {
         protectedMethod();
     }
 
+    public void newMethod1(){
+        defaultMethod();
+        publicMethod();
+        protectedMethod();
+    }
 
 
 }
