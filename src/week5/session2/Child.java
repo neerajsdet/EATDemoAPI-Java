@@ -25,6 +25,12 @@ public class Child extends AccessModifier {
         protectedMethod();
     }
 
+    public void newMethod(){
+        defaultMethod();
+        publicMethod();
+        protectedMethod();
+    }
+
 
 
 }
